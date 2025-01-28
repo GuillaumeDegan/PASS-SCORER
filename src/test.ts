@@ -10,4 +10,14 @@ passwords.forEach((password) => {
   console.log(`Score: ${result.score}`);
   console.log(`Feedback: ${result.feedback.join(", ")}`);
   console.log("---------");
+
+  const resultUnbreakable = checkPasswordStrength(password, {
+    shouldBeUnbreakable: true,
+  });
+  console.log("UMBREAKABLE :");
+  console.log(`Password: ${password}`);
+  console.log(`Strength: ${resultUnbreakable.strength}`);
+  console.log(`Score: ${resultUnbreakable.score}`);
+  console.log(`Feedback: ${resultUnbreakable.feedback.join(", ")}`);
+  console.log("---------");
 });
