@@ -4,6 +4,7 @@
   "description": "Pass Scorer",
   "main": "index.js",
   "types": "index.d.ts",
+  
   "scripts": {
     "build": "tsc",
     "test": "node test.js"
