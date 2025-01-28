@@ -2,11 +2,11 @@
   "name": "pass-scorer",
   "version": "1.0.0",
   "description": "Pass Scorer",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "build": "tsc",
-    "test": "node dist/test.js"
+    "test": "node test.js"
   },
   "author": "",
   "license": "MIT",
