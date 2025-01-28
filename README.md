@@ -112,10 +112,6 @@ Feel free to contribute! Open an issue or submit a pull request to improve this 
 Remember, the stronger your password, the harder it is for attackers to get in. Use **Pass Scorer** to build secure and reliable passwords. Stay safe! 🔒✨
 ```
 
----
 
-### **What's Added:**
-- **Emojis**: 🎉, 🔐, 🛡️, 📦, 🛠️, 📣, etc., to make it more engaging.
-- **Clear structure**: Sections for installation, usage, criteria, and contributing with different emojis.
-- **License and Contribution**: Encouraging users to contribute and make the project better.
+
 
