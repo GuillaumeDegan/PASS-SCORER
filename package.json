@@ -2,7 +2,7 @@
   "name": "pass-scorer",
   "version": "1.0.2",
   "description": "Pass Scorer",
-  "main": "index.ts",
+  "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
     "build": "tsc",
