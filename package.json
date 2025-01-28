@@ -1,10 +1,9 @@
 {
   "name": "pass-scorer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pass Scorer",
   "main": "index.js",
   "types": "index.d.ts",
-  
   "scripts": {
     "build": "tsc",
     "test": "node test.js"
