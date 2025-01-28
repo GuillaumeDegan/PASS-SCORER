@@ -1,6 +1,6 @@
 {
   "name": "pass-scorer",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Pass Scorer",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
