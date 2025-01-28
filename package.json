@@ -1,0 +1,23 @@
+{
+  "name": "pass-scorer",
+  "version": "1.0.0",
+  "description": "Pass Scorer",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.12.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "password",
+    "strength",
+    "security",
+    "checker"
+  ]
+}
