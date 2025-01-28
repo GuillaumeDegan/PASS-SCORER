@@ -1,6 +1,6 @@
 {
   "name": "pass-scorer",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Pass Scorer",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
